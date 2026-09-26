@@ -1,0 +1,14 @@
+{
+    "name": "gatovel/auth",
+    "description": "Authentication and authorization components for the Gatovel Framework",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "nucleo\\auth\\": "src/auth/"
+        }
+    },
+    "require": {
+        "php": "^8.3"
+    }
+}

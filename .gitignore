@@ -1,0 +1,32 @@
+# Composer
+/vendor/
+
+# Environment
+.env
+.env.*
+!.env.example
+
+# IDEs
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Coverage
+.phpunit.result.cache
+coverage/
+
+# Temporary files
+/tmp/
+/cache/
+
+# Local development
+storage/logs/
+storage/cache/
