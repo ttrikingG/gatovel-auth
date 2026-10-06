@@ -9,6 +9,7 @@
         }
     },
     "require": {
-        "php": "^8.3"
+        "php": "^8.3",
+        "gatovel/framework": "^3.0"
     }
 }

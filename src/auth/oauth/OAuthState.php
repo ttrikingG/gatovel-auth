@@ -3,7 +3,7 @@
 namespace nucleo\auth\oauth;
 
 use nucleo\auth\oauth\exceptions\OAuthException;
-use nucleo\auth\session\Session;
+use nucleo\session\Session;
 
 class OAuthState
 {

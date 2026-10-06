@@ -7,7 +7,7 @@ use nucleo\auth\contracts\EmailVerificationService;
 use nucleo\auth\contracts\MfaService;
 use nucleo\auth\contracts\UserProvider;
 use nucleo\auth\mfa\MfaChallenge;
-use nucleo\auth\session\Session;
+use nucleo\session\Session;
 
 class Auth
 {

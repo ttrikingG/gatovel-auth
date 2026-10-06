@@ -2,7 +2,7 @@
 
 namespace nucleo\auth\mfa;
 
-use nucleo\auth\session\Session;
+use nucleo\session\Session;
 
 class MfaChallenge
 {
